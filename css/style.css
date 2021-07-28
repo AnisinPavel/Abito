@@ -219,6 +219,10 @@ body {
   object-fit: cover;
   border-radius: 3px;
 }
+.swiper-slide .img-small {
+  width: 68px;
+  height: 53px;
+}
 .content-text {
   font-size: 14px;
   line-height: 140%;
