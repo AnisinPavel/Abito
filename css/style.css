@@ -450,4 +450,7 @@ body {
   .mySwiper2 {
     height: 250px;
   }
+    .author {
+    max-width: 320px;
+  }
 }
